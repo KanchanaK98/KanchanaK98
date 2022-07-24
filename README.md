@@ -1,4 +1,8 @@
-<img src="https://github.com/KanchanaK98/KanchanaK98/blob/main/git-gif.gif" alt="animated-banner">
+
+<p align="center">
+  <img src="https://github.com/KanchanaK98/KanchanaK98/blob/main/git-gif.gif" alt="animated-banner">
+</p>
+  
 <h2 align="center">You can reach me at :alien:</h2>
 
 <p align="center">
