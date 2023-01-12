@@ -35,7 +35,9 @@
 <h4 align="center">Profile stats :musical_keyboard:</h4>
 
 <!-- <p align="center"><img src="https://github-readme-stats.vercel.app/api?username=KanchanaK98&show_icons=true&theme=synthwave&count_private=true" alt="Kanchana :: Profile Stats" /></p> -->
-<p align="center">[![Kanchana's GitHub stats](https://github-readme-stats.vercel.app/api?username=KanchanaK98)](https://github.com/anuraghazra/github-readme-stats)</p>
+
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=KanchanaK98&theme=dark&background=000000)](https://git.io/streak-stats)
+  
 
 <p align="center"><img src="https://thumbs.gfycat.com/GoodnaturedFondGaur-size_restricted.gif" alt="Synthwave" height="300" width="500"></p>
 
