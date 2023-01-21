@@ -38,6 +38,9 @@
 [![Kanchana's GitHub stats](https://github-readme-stats.vercel.app/api?username=KanchanaK98)](https://github.com/anuraghazra/github-readme-stats) -->
 
 <p align="center"><img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=KanchanaK98&theme=gruvbox"/></p>
+<p align="center"><img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=KanchanaK98&theme=gruvbox"/></p>
+<p align="center"><img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=KanchanaK98&theme=gruvbox"/></p>
+<p align="center"><img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=KanchanaK98&theme=gruvbox"/></p>
 
 <!-- ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=KanchanaK98&theme=gruvbox)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=KanchanaK98&theme=gruvbox)
