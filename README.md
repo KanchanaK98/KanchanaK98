@@ -36,7 +36,7 @@
 
  <p align="center"><img src="https://github-readme-stats.vercel.app/api?username=KanchanaK98&show_icons=true&theme=synthwave&count_private=true" alt="Kanchana :: Profile Stats" /></p> 
 [![Kanchana's GitHub stats](https://github-readme-stats.vercel.app/api?username=KanchanaK98)](https://github.com/anuraghazra/github-readme-stats) -->
-
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=KanchanaK98&theme=gruvbox)
 <p align="center"><img src="https://thumbs.gfycat.com/GoodnaturedFondGaur-size_restricted.gif" alt="Synthwave" height="300" width="500"></p>
 
 
